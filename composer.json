@@ -1,0 +1,12 @@
+{
+    "name": "juancho/tax_common_inner",
+    "description": "Tax Common Bundle Inner",
+    "type": "library",
+    "authors": [
+        {
+            "name": "juanchitot",
+            "email": "juanchitot@gmail.com"
+        }
+    ],
+    "require": {}
+}
